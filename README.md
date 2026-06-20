@@ -61,9 +61,9 @@ NumPy, PyTorch, scikit-learn (Iris dataset, train/test split), Matplotlib
 
 ```bash
 pip install numpy torch matplotlib scikit-learn
-
-python numpy_nn.py
-python pytorch_nn.py
+Open Files in jupyter Notebook or Google Colab
+python 2 Layer Neural Network Pytorch.ipynb
+python "2 Layer Neural Network In Numpy.ipynb
 ```
 
 ## Next steps
